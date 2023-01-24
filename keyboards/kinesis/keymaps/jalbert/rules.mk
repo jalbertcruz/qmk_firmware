@@ -1,0 +1,6 @@
+BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
+COMMAND_ENABLE = yes
+NKRO_ENABLE = yes
+
+# UNICODE_ENABLE = yes
+UNICODEMAP_ENABLE = yes
